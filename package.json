@@ -1,0 +1,25 @@
+{
+  "name": "eslint-basic-file-formatter",
+  "version": "1.0.0",
+  "main": "formatter.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ackellyb/eslint-basic-file-formatter.git"
+  },
+  "author": "Aaron Kelly-Barker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ackellyb/eslint-basic-file-formatter/issues"
+  },
+  "homepage": "https://github.com/ackellyb/eslint-basic-file-formatter#readme",
+  "description": "Basic formatter for eslint, outputs a file",
+  "keywords": [
+    "eslint",
+    "formatter",
+    "file",
+    "format",
+    "lint",
+    "repoter",
+    "basic"
+  ]
+}
